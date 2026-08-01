@@ -1,27 +1,5 @@
 # 🚀 SkillForge AI
 
-<<<<<<< HEAD
-An AI-powered career development platform that helps students improve their placement readiness using Artificial Intelligence, Machine Learning, Full-Stack Development, and Data Analytics.
-
-## Tech Stack
-
-- React + TypeScript
-- Tailwind CSS
-- Node.js + Express
-- Python + FastAPI
-- MongoDB
-- AI/ML
-- Docker
-- GitHub Actions
-
-## Status
-
-🚧 Currently under development.
-
-## Author
-
-Bhoomi S
-=======
 An AI-powered career development platform that helps students improve their placement readiness using Artificial Intelligence, Machine Learning, and Full-Stack Development.
 
 ## 🚀 Tech Stack
@@ -58,4 +36,3 @@ An AI-powered career development platform that helps students improve their plac
 ## 👩‍💻 Author
 
 **Bhoomi S**
->>>>>>> be7b8f1 (Milestone 3: Fixed project structure and updated README)

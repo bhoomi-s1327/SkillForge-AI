@@ -1,14 +1,22 @@
-# SkillForge AI
+# 🚀 SkillForge AI
 
-An AI-powered career development platform that helps students improve their coding skills, resumes, interview performance, and placement readiness.
+An AI-powered career development platform that helps students improve their placement readiness using Artificial Intelligence, Machine Learning, Full-Stack Development, and Data Analytics.
 
-## Technologies
+## Tech Stack
 
-- React
-- TypeScript
-- Node.js
-- Express
-- Python
-- FastAPI
+- React + TypeScript
+- Tailwind CSS
+- Node.js + Express
+- Python + FastAPI
 - MongoDB
 - AI/ML
+- Docker
+- GitHub Actions
+
+## Status
+
+🚧 Currently under development.
+
+## Author
+
+Bhoomi S
